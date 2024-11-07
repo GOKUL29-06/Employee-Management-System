@@ -43,7 +43,7 @@ To enable Lombok in your IDE:
 ## Installation
 ## Clone Repository:
 
-      git clone [https://github.com/GOKUL29-06/Employee-Management-System.git]
+      git clone "https://github.com/GOKUL29-06/Employee-Management-System.git"
       
     
 
