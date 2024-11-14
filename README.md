@@ -80,17 +80,3 @@ Navigate to the frontend directory, then run:
 
 - **This project followed Agile development practices, focusing on iterative progress and collaboration, allowing for regular updates and improvements based on feedback.**
 
-## Screenshots
-
-- **Login Page**: Shared for both Admin and Employee roles.
-  
-  ![Login Page](Screenshots/Screenshot%202024-10-27%20at%2021-21-01%20Genze%20Align%20Technologies.png)
-
-- **Admin Dashboard**: Full access to manage all aspects of employee data.
-  
-  ![Admin Dashboard](Screenshots/Screenshot%202024-10-27%20at%2021-21-16%20Genze%20Align%20Technologies.png)
-
-- **Employee Dashboard**: Displays personal, project, and financial details.
-  
-  ![Employee Dashboard](Screenshots/Screenshot%202024-10-27%20at%2021-21-28%20Genze%20Align%20Technologies.png)
-
