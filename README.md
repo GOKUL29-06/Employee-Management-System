@@ -43,7 +43,8 @@ To enable Lombok in your IDE:
 ## Installation
 ## Clone Repository:
 
-      git clone [https://github.com/Abdhulla1/Employee-Management-System.git]
+      git clone "https://github.com/GOKUL29-06/Employee-Management-System.git"
+      
     
 
 ## Backend Setup:
@@ -63,7 +64,12 @@ To enable Lombok in your IDE:
 Navigate to the frontend directory, then run:
 
             npm install
-            npm start
+            npm run dev
+            
+## Frontend Installation:     
+            npm install react-router-dom
+            npm install bootstrap yup axios react-icons
+            npm install react-bootstrap bootstrap
 
 ## Usage
 
@@ -87,5 +93,4 @@ Navigate to the frontend directory, then run:
 - **Employee Dashboard**: Displays personal, project, and financial details.
   
   ![Employee Dashboard](Screenshots/Screenshot%202024-10-27%20at%2021-21-28%20Genze%20Align%20Technologies.png)
-
 
